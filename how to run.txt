@@ -1,0 +1,5 @@
+Open HabitFlowAI in VS Code.
+In the terminal, run:
+cd HabitFlowAI
+flutter pub get
+flutter run
